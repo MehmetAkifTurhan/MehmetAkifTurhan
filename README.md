@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @MehmetAkifTurhan
-- 👀 I’m interested in IT industry
-- 🌱 I’m currently learning programming
-- 📫 How to reach me : akifmat42@gmail.com
+As a recent graduate with a strong passion for web development, I have spent the past years working as a freelance web developer, building functional and responsive websites for small businesses and individual clients. Throughout this journey, I gained hands-on experience using HTML5, CSS3, JavaScript (ES6+), and React.js to create dynamic front-end interfaces. On the back end, I utilized Node.js and Express.js to develop RESTful APIs, with MongoDB and Firebase used for data management.
 
-<!---
-MehmetAkifTurhan/MehmetAkifTurhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I designed and developed complete web applications from scratch from gathering client requirements and creating wireframes in Figma, to deploying fully responsive sites. One of the most challenging yet rewarding experiences was optimizing performance and load time for an e-commerce site, where I implemented lazy loading, code splitting, and image optimization techniques to improve overall user experience.
+
+Working independently taught me how to manage my time effectively, communicate clearly with non-technical clients, and troubleshoot issues under pressure. I’m now looking to join a collaborative development team where I can continue to grow, contribute, and learn from others in a professional environment.
